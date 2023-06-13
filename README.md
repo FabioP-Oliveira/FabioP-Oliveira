@@ -1,7 +1,12 @@
-👋 Olá, sou @FabioP-Oliveira
+GRUPO WHATSAPP PARA PROGRAMADORES
 
-- Grupo-Whatsapp-Para-Programadores
+java-javascript-python-C-C++-C#-golang-dart-dluther
+-R-Rust-TypeScript-perl-PHP-Ruby-swift-
+objectve-c-kotlen-Scala
+
+
 https://chat.whatsapp.com/K1YLhOOuBBjE4eK4F7XoZu
+
 
 
 <!---
